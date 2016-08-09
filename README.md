@@ -1,3 +1,2 @@
 # TicTacToePY
-#Marco
-#altair
+
