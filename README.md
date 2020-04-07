@@ -1,7 +1,21 @@
 # TicTacToePY
+Refers to a personal python Project in which I developed a python TicTacToe with grafics and computer logics to play against.
+Inside code you can change the AI level. From easy to very hard. Try to beat it! 
+***_Please, use my code, but also reference my repository. This will be appreciated as an offered beer! :P_***
 
-Python excercice to build up a fast tic tac toe software and play against an IA.
+# Create a new instance, your Instance
+## All you need is...
 
-Everything on github, also graphic class. 
+Computer with Python2 installed 
 
-Enjoy!
+python2 intepreter with following modules installed: 
+
+- tkinter
+- sys
+- os
+- time
+
+# Installation  
+
+1. Run a `git clone https://github.com/altair1016/TicTacToePY` command or download files from my repo.
+2. Run python command `python Game.py` to make it run. A tkinter window will appear, you only have to start playing.
