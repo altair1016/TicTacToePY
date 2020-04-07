@@ -18,4 +18,4 @@ python2 intepreter with following modules installed:
 # Installation  
 
 1. Run a `git clone https://github.com/altair1016/TicTacToePY` command or download files from my repo.
-2. Run python command `python Game.py` to play in a terminal window. Run python command `python Graphics.py` to play in a tkinter windows, with some bugs :)
+2. Run python command `python Game.py` to play in a terminal window. Run python command `python Graphics.py` to play in a tkinter windows, with some bug :)
